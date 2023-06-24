@@ -1,0 +1,6 @@
+numpy
+matplotlib
+spacepy
+scipy
+geopandas
+datetime
