@@ -1,0 +1,72 @@
+{
+    "use_dynamic_solution": true,
+    "plot_dynamic_flux": {
+        "energies": [],
+        "Llims": [],
+        "epochrange": [],
+        "aeqs": [],
+        "enabled": true
+    },
+    "plot_dynamic_anisotropy": {
+        "energies": [],
+        "Llims": [],
+        "epochrange": [],
+        "enabled": true
+    },
+    "plot_spectrums": {
+        "Lshells": [],
+        "nt": 2,
+        "epochrange": [],
+        "enabled": true
+    },
+    "plot_psd": {
+        "mus": [],
+        "Llims": [],
+        "nt": 2,
+        "epochrange": [],
+        "enabled": true
+    },
+    "plot_j_aeq": {
+        "energies": [],
+        "Llims": [],
+        "aeqs": [],
+        "nt": 2,
+        "epochrange": [],
+        "enabled": true
+    },
+    "plot_j_ratio": {
+        "energies": [],
+        "Llims": [],
+        "nt": 2,
+        "epochrange": [],
+        "enabled": true
+    },
+    "plot_j_omni": {
+        "energies": [],
+        "Llims": [],
+        "nt": 2,
+        "epochrange": [],
+        "enabled": true
+    },
+    "plot_pad": {
+        "Lshells": [],
+        "energies": [],
+        "nt": 2,
+        "epochrange": [],
+        "enabled": true
+    },
+    "plot_timeseries": {
+        "energies": [],
+        "Lshells": [],
+        "epochrange": [],
+        "aeqs": [],
+        "enabled": true
+    },
+    "plot_map_flux": {
+        "altitudes_km": [],
+        "energies": [],
+        "aeqs": [],
+        "dt_max_days": [],
+        "enabled": true
+    }
+}
